@@ -4,6 +4,6 @@ import { Link } from "react-router-dom";
 export default () => (
   <div>
     <h1>Home Page</h1>
-    <Link>Link to Blog</Link>
+    <Link to="/">Link to Blog</Link>
   </div>
 );
